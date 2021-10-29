@@ -1,4 +1,4 @@
-<h3 align="left">Hi there, I'm Lucas</h3>
+<h3 align="left">Hi there, i'm Lucas</h3>
 
 - 🔭 I’m currently studying in [Soy Henry](https://www.soyhenry.com/)
 
