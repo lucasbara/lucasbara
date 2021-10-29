@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A front-end developer student, looking forward to new challenges. Passionate for learning and exploring new technologies.</h3>
 
 - 🔭 I’m currently studying in [Soy Henry](https://www.soyhenry.com/)
 
