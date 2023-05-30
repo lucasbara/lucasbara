@@ -1,5 +1,8 @@
-Hi 👋, I'm Lucas
+# > hello 
 
-I’m passionate about technology innovation, design, and having big challenging tasks on my to-do list. Full Stack Web Developer, who is interested in expanding their front-end skills. I have been in a JavaScript Bootcamp for four months, in which I have improved my JavaScript skills and learned React, Redux, NodeJS, Express, Sequelize, PostgreSQL. I consider myself to be a results-oriented, and capable worker; who is not easily affected by job stress. I am certainly receptive to take part in any company training as I’m a fast learner in any job training situation, if needed. I am confident I would be an excellent addition to your organization since user-friendly websites and applications is truly a passion of mine. I’m looking forward to working with you. If you require any further information, feel free to contact me through:
+I'm Lucas, and I have a keen eye for design and a deep understanding of how to create user interfaces that are both functional and aesthetically pleasing. You can check out my pinned projects below 👇🏻.
 
-📫 **lucasbarallobre@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/lucas-barallobre/)
+- [Resume](https://www.lucasbara.dev)
+- [Website](https://www.lucasbara.dev)
+- @lucasbara pretty much everywhere else
